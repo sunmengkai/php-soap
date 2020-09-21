@@ -1,0 +1,8 @@
+{
+    "name": "PHP SOAP",
+    "description": "PHP SOAP extension.",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
