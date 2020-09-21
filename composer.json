@@ -1,5 +1,5 @@
 {
-    "name": "soap/php-soap",
+    "name": "topsoap/php-soap",
     "description": "PHP SOAP extension.",
     "authors": [
         {
