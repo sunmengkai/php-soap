@@ -1,8 +1,13 @@
 {
-    "name": "PHP SOAP",
+    "name": "soap/php-soap",
     "description": "PHP SOAP extension.",
+    "authors": [
+        {
+            "name": "buleknight",
+            "email": "buleknight@163.com"
+        }       
+    ],
     "require": {
-        "php": "^7.2",
-        "another-vendor/package": "1.*"
+        "php": "^7.2"
     }
 }
