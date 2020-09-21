@@ -9,5 +9,6 @@
     ],
     "require": {
         "php": "^7.2"
-    }
+    },
+    "license": "MIT"
 }
